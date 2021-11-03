@@ -42,4 +42,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Seedwapp
+- Speedwapp
