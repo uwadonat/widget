@@ -2,7 +2,7 @@
 
 This project is made of simple widget. Use can hover on widget edges and the widget show where user's mouse is positioned.
 
-![Screenshot](https://github.com/uwadonat/bookstore/blob/feature1/images/Screenshot.png)
+![Screenshot](https://github.com/uwadonat/widget/blob/feature1/images/Screenshot.png)
 
 Additional description of the project and its features.
 
@@ -43,5 +43,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Seedwapp
-
-
